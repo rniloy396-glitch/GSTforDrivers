@@ -1,0 +1,8 @@
+
+{
+  "name": "GSTforDrivers",
+  "description": "An AI-powered tool for rideshare drivers to automatically extract GST data from earnings statements and receipts, calculating net tax liabilities for BAS reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
